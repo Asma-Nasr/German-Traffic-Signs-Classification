@@ -8,6 +8,10 @@ Task 6 @Elevvo ML Internship
 4. Train a CNN model to recognize different traffic sign classes.
 5. Evaluate performance using accuracy and confusion matrix.
 
+### Bonus:
+1. Add data augmentation to improve performance.
+2. Compare custom CNN vs. pre-trained model (e.g., MobileNet).
+
 ## Dataset
 - [German Traffic Signs Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
