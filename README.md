@@ -17,3 +17,6 @@ Task 6 @Elevvo ML Internship
 
 ## Notebook
 - [German Traffic Signs Classification](https://github.com/Asma-Nasr/German-Traffic-Signs-Classification/blob/main/german_traffic_signs.ipynb)
+
+## Saved Model
+- [Saved model](https://github.com/Asma-Nasr/German-Traffic-Signs-Classification/tree/main/Saved%20Model)
