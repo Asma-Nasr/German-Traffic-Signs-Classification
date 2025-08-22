@@ -20,3 +20,13 @@ Task 6 @Elevvo ML Internship
 
 ## Saved Model
 - [Saved model](https://github.com/Asma-Nasr/German-Traffic-Signs-Classification/tree/main/Saved%20Model)
+
+## Results
+![Results](https://github.com/Asma-Nasr/German-Traffic-Signs-Classification/blob/main/output.png)
+
+## Performance Comparison
+| Models      | Accuracy | ROC Score |
+|-------------|----------|-----------|
+| Custom CNN  | 97.84%   | 0.9997    |
+| VGG19       | 5.39%    | 0.5001    |
+| MobileNet   | 99.29%   | 1.0000    |
