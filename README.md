@@ -16,4 +16,4 @@ Task 6 @Elevvo ML Internship
 - [German Traffic Signs Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
 
 ## Notebook
-- [German Traffic Signs Classification]()
+- [German Traffic Signs Classification](https://github.com/Asma-Nasr/German-Traffic-Signs-Classification/blob/main/german_traffic_signs.ipynb)
